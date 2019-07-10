@@ -1,0 +1,6 @@
+const ps4 = 300;
+const xbox = 200;
+const GOW = 100;
+const total = xbox*ps4*GOW;
+
+console.log(total);
